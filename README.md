@@ -1,5 +1,7 @@
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
+This is a WIP Profile README. Check out the things below for now.
+
 ### 🎧 Spotify
 
 [<img src="https://spotify-np-imtca.vercel.app/api/spotify" alt="TCA Spotify" width="400" />](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
@@ -17,7 +19,7 @@
 [➡️ more videos...](https://youtube.com/TCATech)
 
 <details>
-<summary>:zap: Recent Activity</summary>
+<summary>:zap: Recent Activity [WIP]</summary>
   
 <!--START_SECTION:activity-->
   
