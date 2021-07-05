@@ -1,11 +1,18 @@
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
   
 <!--END_SECTION:activity-->
+</details>
+
+<details>
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="TCA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imTCA&show_icons=true&theme=highcontrast&hide_border=true" />
+</details>
 
 <!--
 **imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
