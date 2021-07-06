@@ -4,7 +4,7 @@ This is a WIP Profile README. Check out the things below for now.
 
 ### 🎧 Spotify
 
-[<img src="https://spotifynp.vercel.app/api/spotify" alt="TCA Spotify" width="400" />](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
+[<img src="https://spotifynp.vercel.app/api/spotify" alt="TCA Spotify"/>](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
 
 ### 📺 Latest YouTube Videos
 
