@@ -1,4 +1,4 @@
-## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+<h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
 This is a WIP Profile README. Check out the things below for now.
 
@@ -21,6 +21,16 @@ This is a WIP Profile README. Check out the things below for now.
 [<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
 [<img src="https://i.imgur.com/PhF4Rn4.png" alt="markdown" width="40" height="40"/>][markdown]
 
+### 🔧 Tools I'm Familiar With
+
+[<img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x" alt="catJAM" width="40" height="40"/>][catJAM]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/>][premiere]
+[<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>][photoshop]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1200px-OBS.svg.png" alt="obs" width="40" height="40"/>][obs]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/1024px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/>][audio]
+[<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
+
 ### 🎧 Spotify
 
 [<img src="https://spotifynp.vercel.app/api/spotify" alt="TCA Spotify"/>](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
@@ -39,7 +49,7 @@ This is a WIP Profile README. Check out the things below for now.
 
 <details>
 <summary>:zap: Recent Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/TCAandYellowed/HowToContactUs/pull/1) in [TCAandYellowed/HowToContactUs](https://github.com/TCAandYellowed/HowToContactUs)
 <!--END_SECTION:activity-->
@@ -48,9 +58,14 @@ This is a WIP Profile README. Check out the things below for now.
 <details>
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="TCA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imTCA&show_icons=true&theme=highcontrast&hide_border=true" />
+<br />
+
+[<img src="https://github-readme-stats.vercel.app/api?username=imTCA&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="Banakin's github stats" width="550px" />][stats]
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imTCA&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
 </details>
 
+<!-- Socials -->
 [website]: https://www.imTCA.tk
 [yt]: https://youtube.com/c/TCATech
 [fb]: https://facebook.com/tcatechyt
@@ -61,6 +76,19 @@ This is a WIP Profile README. Check out the things below for now.
 [reddit]: https://reddit.com/r/TCATech
 [osu]: https://osu.ppy.sh/u/imTCA
 
+<!-- Languages -->
 [nodejs]: https://nodejs.org
 [ahk]: https://autohotkey.com
 [markdown]: https://en.wikipedia.org/wiki/Markdown
+
+<!-- Tools -->
+[catJAM]: https://betterttv.com/emotes/5f1b0186cf6d2144653d2970
+[premiere]: https://www.adobe.com/sea/products/premiere.html
+[paint]: https://getpaint.net
+[photoshop]: https://www.adobe.com/sea/products/photoshop.html
+[obs]: https://obsproject.com
+[audio]: https://audacityteam.org
+[gosu]: https://github.com/l3lackShark/gosumemory
+
+<!-- Other Socials -->
+[stats]: https://github.com/anuraghazra/github-readme-stats
