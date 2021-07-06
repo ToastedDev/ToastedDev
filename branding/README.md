@@ -37,4 +37,4 @@ The other character that you can see on my socials such as [Twitter](https://twi
 
 And that's it! I'll add more things here once my brand improves. Hope you have a good rest of your day!
 
-###### - TCA
+###### - [TCA](https://github.com/imTCA)
