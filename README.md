@@ -3,7 +3,23 @@
 This is a WIP Profile README. Check out the things below for now.
 
 ### 💬 Socials
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
+[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][fb]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
+[<img align="left" alt="Twitch" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
+[<img align="left" alt="Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
+[<img align="left" alt="osu!" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/osu.svg" />][osu]
+
+<br />
+
+### 👨‍💻 Languages I'm Familiar With
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>][nodejs]
+[<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
+[<img src="https://i.imgur.com/PhF4Rn4.png" alt="markdown" width="40" height="40"/>][markdown]
 
 ### 🎧 Spotify
 
@@ -35,17 +51,16 @@ This is a WIP Profile README. Check out the things below for now.
 <img align="left" alt="TCA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imTCA&show_icons=true&theme=highcontrast&hide_border=true" />
 </details>
 
-<!--
-**imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[website]: https://www.imTCA.tk
+[yt]: https://youtube.com/c/TCATech
+[fb]: https://facebook.com/tcatechyt
+[insta]: https://instagram.com/imTCA_
+[tweet]: https://twitter.com/imTCA_
+[twitch]: https://twitch.tv/imTCA
+[discord]: https://discord.com/invite/3FanR2pmwn
+[reddit]: https://reddit.com/r/TCATech
+[osu]: https://osu.ppy.sh/u/imTCA
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[nodejs]: https://nodejs.org
+[ahk]: https://autohotkey.com
+[markdown]: https://en.wikipedia.org/wiki/Markdown
