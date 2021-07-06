@@ -1,17 +1,20 @@
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
-This is a WIP Profile README. Check out the things below for now.
+- 🔭 I’m currently working on [PainBot](https://github.com/imTCA/PainBot) <!-- - 🌱 I’m currently learning **Vim** -->
+- 👨‍💻 [My website][website] is currently under construction!
+- 💬 Ask me about **anything!**
+- ⚡ Fun fact: **If it wasn't obvious already, I love typing.**
 
 ### 💬 Socials
-[<img align="left" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
-[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][fb]
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
-[<img align="left" alt="Twitch" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
-[<img align="left" alt="Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
-[<img align="left" alt="osu!" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/osu.svg" />][osu]
+[<img align="left" alt="Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
+[<img align="left" alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][fb]
+[<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
+[<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
+[<img align="left" alt="Twitch" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
+[<img align="left" alt="Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
+[<img align="left" alt="osu!" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/osu.svg" />][osu]
 
 <br />
 
