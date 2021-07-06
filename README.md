@@ -19,7 +19,7 @@ This is a WIP Profile README. Check out the things below for now.
 [➡️ more videos...](https://youtube.com/TCATech)
 
 <details>
-<summary>:zap: Recent Activity [WIP]</summary>
+<summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/TCAandYellowed/HowToContactUs/pull/1) in [TCAandYellowed/HowToContactUs](https://github.com/TCAandYellowed/HowToContactUs)
