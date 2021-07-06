@@ -2,6 +2,9 @@
 
 This is a WIP Profile README. Check out the things below for now.
 
+### 💬 Socials
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 ### 🎧 Spotify
 
 [<img src="https://spotifynp.vercel.app/api/spotify" alt="TCA Spotify"/>](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
