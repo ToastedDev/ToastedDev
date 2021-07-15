@@ -24,7 +24,7 @@
 [<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
 [<img src="https://i.imgur.com/PhF4Rn4.png" alt="markdown" width="40" height="40"/>][markdown]
 
-### 🔧 Tools I'm Familiar With
+### 🔧 Programs I'm Familiar With
 
 [<img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x" alt="catJAM" width="40" height="40"/>][catJAM]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/>][premiere]
