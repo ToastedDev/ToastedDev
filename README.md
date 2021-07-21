@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TCAandYellowed/HowToContactUs/pull/1) in [TCAandYellowed/HowToContactUs](https://github.com/TCAandYellowed/HowToContactUs)
+1. 💪 Opened PR [#1](https://github.com/TCAandYellowed/AHKscripts/pull/1) in [TCAandYellowed/AHKscripts](https://github.com/TCAandYellowed/AHKscripts)
 <!--END_SECTION:activity-->
 </details>
 
