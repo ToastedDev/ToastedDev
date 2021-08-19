@@ -22,7 +22,6 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>][nodejs]
 [<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
-[<img src="https://i.imgur.com/PhF4Rn4.png" alt="markdown" width="40" height="40"/>][markdown]
 
 ### 🔧 Programs I'm Familiar With
 
