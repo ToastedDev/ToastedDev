@@ -47,7 +47,7 @@
 - [I FCED BLUE ZENITH! | xi - Blue Zenith [Hard] 99.91% FC (SS Choke) | TCAplaysosu!](https://www.youtube.com/watch?v=ndt5Xp9l_lw)
 <!-- YOUTUBE:END -->
 
-[➡️ more videos...](https://youtube.com/TCATech)
+[➡️ more videos...](https://youtube.com/c/TCATech/videos)
 
 <details>
 <summary>:zap: Recent Activity</summary>
