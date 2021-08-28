@@ -53,7 +53,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/imTCA/UtilityMan/pull/1) in [imTCA/UtilityMan](https://github.com/imTCA/UtilityMan)
+1. ❗️ Closed issue [#1](https://github.com/TCACodes/PainBot/issues/1) in [TCACodes/PainBot](https://github.com/TCACodes/PainBot)
 <!--END_SECTION:activity-->
 </details>
 
