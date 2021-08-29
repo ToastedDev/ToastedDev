@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [playing with celavets again. I wish I was lying](https://www.youtube.com/watch?v=Zj5SHPQPVfs)
 - [playing with celavets cause yes](https://www.youtube.com/watch?v=DFpynPMbo2Y)
 - [playing some minecraft bedrock cause it's fun](https://www.youtube.com/watch?v=pkXEHJdQY7U)
 - [the birthday stream where everything went horribly wrong (Ended Stream)](https://www.youtube.com/watch?v=OQDEoDMKFm0)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
+- [I FCED BLUE ZENITH! | xi - Blue Zenith [Hard] 99.91% FC (SS Choke) | TCAplaysosu!](https://www.youtube.com/watch?v=ndt5Xp9l_lw)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...](https://youtube.com/c/TCATech/videos)
