@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
-- 🔭 I’m currently working on **[Utility Man.](https://github.com/imTCA/UtilityMan)** <!-- - 🌱 I’m currently learning **Vim** -->
+- 🔭 I’m currently working on **[PainBot.](https://github.com/TCACodes/PainBot)** <!-- - 🌱 I’m currently learning **Vim** -->
 - 👨‍💻 [My website][website] is currently under construction!
 - 💬 Ask me about **anything!**
-- ⚡ Fun fact: **If it wasn't obvious already, I love typing.**
+- ⚡ Fun fact: **If it wasn't obvious already, I love coding in JavaScript.**
 
 ### 💬 Socials
 [<img align="left" alt="Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
