@@ -20,8 +20,9 @@
 
 ### 👨‍💻 Languages I'm Familiar With
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>][nodejs]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
 [<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
+
 
 ### 🔧 Programs I'm Familiar With
 
@@ -81,9 +82,8 @@
 [osu]: https://osu.ppy.sh/u/imTCA
 
 <!-- Languages -->
-[nodejs]: https://nodejs.org
+[javascript]: https://en.wikipedia.org/wiki/JavaScript
 [ahk]: https://autohotkey.com
-[markdown]: https://en.wikipedia.org/wiki/Markdown
 
 <!-- Tools -->
 [catJAM]: https://betterttv.com/emotes/5f1b0186cf6d2144653d2970
