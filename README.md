@@ -1,12 +1,10 @@
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
-- 🔭 I’m currently working on **[PainBot.](https://github.com/TCACodes/PainBot)** <!-- - 🌱 I’m currently learning **Vim** -->
-- 👨‍💻 [My website][website] is currently under construction!
+- 🔭 I’m currently working on **[PainBot.](https://github.com/TCACodes/PainBot)**
 - 💬 Ask me about **anything!**
 - ⚡ Fun fact: **If it wasn't obvious already, I love coding in JavaScript.**
 
 ### 💬 Socials
-[<img align="left" alt="Website" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
 [<img align="left" alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][fb]
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
@@ -48,7 +46,7 @@
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
 <!-- YOUTUBE:END -->
 
-[➡️ more videos...](https://youtube.com/c/TCATech/videos)
+[➡️ more videos...][yt]
 
 <details>
 <summary>:zap: Recent Activity</summary>
@@ -71,13 +69,12 @@
 </details>
 
 <!-- Socials -->
-[website]: https://www.imTCA.tk
-[yt]: https://youtube.com/c/TCATech
+[yt]: https://youtube.com/c/NotTCA
 [fb]: https://facebook.com/tcatechyt
-[insta]: https://instagram.com/imTCA_
+[insta]: https://instagram.com/NotTCA
 [tweet]: https://twitter.com/imTCA_
 [twitch]: https://twitch.tv/imTCA
-[discord]: https://discord.com/invite/3FanR2pmwn
+[discord]: https://discord.com/invite/vCRYvPtZ2P
 [reddit]: https://reddit.com/r/TCATech
 [osu]: https://osu.ppy.sh/u/imTCA
 
