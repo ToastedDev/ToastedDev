@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [welcome to another episode of TCA using the timedeo pack](https://www.youtube.com/watch?v=AVwOngZS3-c)
 - [these orphans are about to die](https://www.youtube.com/watch?v=CU5V4jJ2Qqc)
 - [playing with celavets cause yes](https://www.youtube.com/watch?v=DFpynPMbo2Y)
 - [playing some minecraft bedrock cause it's fun](https://www.youtube.com/watch?v=pkXEHJdQY7U)
 - [the birthday stream where everything went horribly wrong (Ended Stream)](https://www.youtube.com/watch?v=OQDEoDMKFm0)
-- [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
