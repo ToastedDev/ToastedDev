@@ -3,13 +3,14 @@
 <!-- Usernames -->
 ## Usernames
 I go by a few usernames online. They're almost always one of the following:
+- Not TCA
 - imTCA
 - tcatechofficial
 - officiallyTCA
 
 <!-- Typeface -->
 ## Typeface/Font
-When I need a font, I usually pick [Dosis.](https://fonts.google.com/specimen/Dosis) I may use other fonts here and there (especially default system fonts) but I try to be consistent.
+When I need a font, I usually pick [Dosis,](https://fonts.google.com/specimen/Dosis) specifically the **Bold** version. I may use other fonts here and there (especially default system fonts) but I try to be consistent.
 
 <!-- Colors -->
 ## Colors
@@ -37,4 +38,4 @@ The other character that you can see on my socials such as [Twitter](https://twi
 
 And that's it! I'll add more things here once my brand improves. Hope you have a good rest of your day!
 
-###### - [TCA](https://github.com/imTCA)
+###### - [TCA](https://github.com/NotTCA)
