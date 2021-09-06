@@ -28,7 +28,7 @@ This is an example as to what a gradient between the yellow and green may look l
 
 <!-- Character -->
 ## Character
-The character that I use the most is by <span>[its _Midnight.](https://youtube.com/c/ItsMidnight)</span> You may notice that it's tail is a socket. This is a reference to my tech-branded YouTube channel, [TCA Tech.](https://youtube.com/c/TCATech)
+The character that I use the most is by <span>[its _Midnight.](https://youtube.com/c/ItsMidnight)</span> You may notice that it's tail is a socket. This is a reference to my tech-branded YouTube channel, [Not TCA.](https://youtube.com/c/NotTCA)
 
 <img src="./images/character.png?raw=true" width="300px" alt="Character" />
 
