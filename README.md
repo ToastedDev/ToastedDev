@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [welcome to another episode of TCA using the timedeo pack](https://www.youtube.com/watch?v=AVwOngZS3-c)
 - [these orphans are about to die](https://www.youtube.com/watch?v=CU5V4jJ2Qqc)
 - [playing with celavets cause yes](https://www.youtube.com/watch?v=DFpynPMbo2Y)
 - [playing some minecraft bedrock cause it's fun](https://www.youtube.com/watch?v=pkXEHJdQY7U)
-- [the birthday stream where everything went horribly wrong (Ended Stream)](https://www.youtube.com/watch?v=OQDEoDMKFm0)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
