@@ -3,7 +3,7 @@
 <!-- Usernames -->
 ## Usernames
 I go by a few usernames online. They're almost always one of the following:
-- Not TCA
+- NotTCA
 - imTCA
 - tcatechofficial
 - officiallyTCA
