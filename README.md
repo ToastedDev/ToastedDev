@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TCACodes/PainBot/issues/1) in [TCACodes/PainBot](https://github.com/TCACodes/PainBot)
+1. 🗣 Commented on [#195](https://github.com/samuelmarina/is-even/issues/195) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
 <!--END_SECTION:activity-->
 </details>
 
