@@ -61,11 +61,11 @@
 
 <br />
 
-[<img src="https://github-readme-stats.vercel.app/api?username=imTCA&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=NotTCA&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imTCA&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotTCA&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
   
-[<img src="https://activity-graph.herokuapp.com/graph?username=imTCA&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Top Langs" width="830px" />][graph]
+[<img src="https://activity-graph.herokuapp.com/graph?username=NotTCA&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Top Langs" width="830px" />][graph]
 </details>
 
 <!-- Socials -->
