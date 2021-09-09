@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [welcome to another episode of TCA using the timedeo pack](https://www.youtube.com/watch?v=AVwOngZS3-c)
 - [these orphans are about to die](https://www.youtube.com/watch?v=CU5V4jJ2Qqc)
 - [playing with celavets cause yes](https://www.youtube.com/watch?v=DFpynPMbo2Y)
 - [playing some minecraft bedrock cause it's fun](https://www.youtube.com/watch?v=pkXEHJdQY7U)
-- [the birthday stream where everything went horribly wrong (Ended Stream)](https://www.youtube.com/watch?v=OQDEoDMKFm0)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TCACodes/PainBot/issues/1) in [TCACodes/PainBot](https://github.com/TCACodes/PainBot)
+1. 🗣 Commented on [#195](https://github.com/samuelmarina/is-even/issues/195) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
 <!--END_SECTION:activity-->
 </details>
 
