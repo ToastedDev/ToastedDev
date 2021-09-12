@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [helping Celavets with his house | #tcaSMP](https://www.youtube.com/watch?v=tiM8ggC0Jjs)
 - [playing on my SMP featuring Celavets](https://www.youtube.com/watch?v=eCGmZ1FodW8)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [welcome to another episode of TCA using the timedeo pack](https://www.youtube.com/watch?v=AVwOngZS3-c)
 - [these orphans are about to die](https://www.youtube.com/watch?v=CU5V4jJ2Qqc)
-- [playing with celavets cause yes](https://www.youtube.com/watch?v=DFpynPMbo2Y)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
