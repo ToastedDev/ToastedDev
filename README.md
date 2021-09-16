@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [still building the prime path | #tcaSMP](https://www.youtube.com/watch?v=NOdN3Zlum-Y)
 - [making my prime path longer | #tcaSMP](https://www.youtube.com/watch?v=5fRruVIXfaE)
 - [was bored so I made a mob grinder | #tcaSMP](https://www.youtube.com/watch?v=gUB_xTINv5s)
 - [helping Celavets with his house | #tcaSMP](https://www.youtube.com/watch?v=tiM8ggC0Jjs)
 - [playing on my SMP featuring Celavets](https://www.youtube.com/watch?v=eCGmZ1FodW8)
-- [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
