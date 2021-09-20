@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [today is opposite day | #tcaSMP](https://www.youtube.com/watch?v=rIhaP-UcNBQ)
 - [still working on the prime path, as usual | #tcaSMP](https://www.youtube.com/watch?v=nuZAYYOHycc)
 - [still building the prime path | #tcaSMP](https://www.youtube.com/watch?v=NOdN3Zlum-Y)
 - [making my prime path longer | #tcaSMP](https://www.youtube.com/watch?v=5fRruVIXfaE)
 - [was bored so I made a mob grinder | #tcaSMP](https://www.youtube.com/watch?v=gUB_xTINv5s)
-- [helping Celavets with his house | #tcaSMP](https://www.youtube.com/watch?v=tiM8ggC0Jjs)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
