@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [today is walk the dog day | #tcaSMP](https://www.youtube.com/watch?v=QOiOyoV3JJs)
 - [today is opposite day | #tcaSMP](https://www.youtube.com/watch?v=rIhaP-UcNBQ)
 - [still working on the prime path, as usual | #tcaSMP](https://www.youtube.com/watch?v=nuZAYYOHycc)
 - [still building the prime path | #tcaSMP](https://www.youtube.com/watch?v=NOdN3Zlum-Y)
 - [making my prime path longer | #tcaSMP](https://www.youtube.com/watch?v=5fRruVIXfaE)
-- [was bored so I made a mob grinder | #tcaSMP](https://www.youtube.com/watch?v=gUB_xTINv5s)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
