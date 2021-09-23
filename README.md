@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/samuelmarina/is-even/issues/195) in [samuelmarina/is-even](https://github.com/samuelmarina/is-even)
+1. 💪 Opened PR [#94](https://github.com/sabattle/CalypsoBot/pull/94) in [sabattle/CalypsoBot](https://github.com/sabattle/CalypsoBot)
 <!--END_SECTION:activity-->
 </details>
 
