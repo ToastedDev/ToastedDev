@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/sabattle/CalypsoBot/issues/57) in [sabattle/CalypsoBot](https://github.com/sabattle/CalypsoBot)
+1. 🗣 Commented on [#94](https://github.com/sabattle/CalypsoBot/issues/94) in [sabattle/CalypsoBot](https://github.com/sabattle/CalypsoBot)
 <!--END_SECTION:activity-->
 </details>
 
