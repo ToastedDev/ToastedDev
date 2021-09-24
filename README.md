@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NotTCA/NotTCA/pull/1) in [NotTCA/NotTCA](https://github.com/NotTCA/NotTCA)
+1. 💪 Opened PR [#1](https://github.com/AsepctDEVS/AsepctDEVS/pull/1) in [AsepctDEVS/AsepctDEVS](https://github.com/AsepctDEVS/AsepctDEVS)
 <!--END_SECTION:activity-->
 </details>
 
