@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AsepctDEVS/AsepctDEVS/pull/1) in [AsepctDEVS/AsepctDEVS](https://github.com/AsepctDEVS/AsepctDEVS)
+1. ❗️ Opened issue [#1](https://github.com/NotTCA/PainBot/issues/1) in [NotTCA/PainBot](https://github.com/NotTCA/PainBot)
 <!--END_SECTION:activity-->
 </details>
 
