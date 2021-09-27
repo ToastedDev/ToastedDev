@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [we made an underwater civilization | #tcaSMP](https://www.youtube.com/watch?v=x-Fvrt4hZMg)
 - [joash has entered the chat | #tcaSMP](https://www.youtube.com/watch?v=nTIPbM5pKUM)
 - [today is walk the dog day part 2 | #tcaSMP](https://www.youtube.com/watch?v=7uduoQ6occ8)
 - [today is walk the dog day | #tcaSMP](https://www.youtube.com/watch?v=QOiOyoV3JJs)
 - [today is opposite day | #tcaSMP](https://www.youtube.com/watch?v=rIhaP-UcNBQ)
+- [still working on the prime path, as usual | #tcaSMP](https://www.youtube.com/watch?v=nuZAYYOHycc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
