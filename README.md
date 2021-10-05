@@ -40,10 +40,10 @@
 
 <!-- YOUTUBE:START -->
 - [Not TCA vs its _Midnight | Who will win? | Day #0](https://www.youtube.com/watch?v=_G7gr-AsndU)
+- [Not TCA vs its _Midnight | Who will win? | Day #1](https://www.youtube.com/watch?v=NWOCPWS0xNg)
 - [we made an underwater civilization | #tcaSMP](https://www.youtube.com/watch?v=x-Fvrt4hZMg)
 - [joash has entered the chat | #tcaSMP](https://www.youtube.com/watch?v=nTIPbM5pKUM)
 - [today is walk the dog day part 2 | #tcaSMP](https://www.youtube.com/watch?v=7uduoQ6occ8)
-- [today is walk the dog day | #tcaSMP](https://www.youtube.com/watch?v=QOiOyoV3JJs)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
