@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Not TCA vs Wxlted Rxses (its _Midnight) | Who will win? | Day #2](https://www.youtube.com/watch?v=4xV8CZAanYQ)
 - [Not TCA vs its _Midnight | Who will win? | Day #1](https://www.youtube.com/watch?v=NWOCPWS0xNg)
 - [Not TCA vs its _Midnight | Who will win? | Day #1](https://www.youtube.com/watch?v=8rKQzTOE4s8)
 - [Not TCA vs its _Midnight | Who will win? | Day #0](https://www.youtube.com/watch?v=_G7gr-AsndU)
 - [we made an underwater civilization | #tcaSMP](https://www.youtube.com/watch?v=x-Fvrt4hZMg)
+- [joash has entered the chat | #tcaSMP](https://www.youtube.com/watch?v=nTIPbM5pKUM)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
