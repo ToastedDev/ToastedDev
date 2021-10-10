@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Not TCA vs Wxlted Rxses (its _Midnight) | Who will win? | Day #5](https://www.youtube.com/watch?v=0EThw0cRkZI)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
 - [I FCED BLUE ZENITH! | xi - Blue Zenith [Hard] 99.91% FC (SS Choke) | TCAplaysosu!](https://www.youtube.com/watch?v=ndt5Xp9l_lw)
 - [Its _Midnight, take my verified checkmark. | TCA Tech Shorts](https://www.youtube.com/watch?v=su5togUj_x4)
+- [I install Windows 10 and Windows 7 in a VM. (TImelapse) | TCA Tech 100 Sub Special](https://www.youtube.com/watch?v=0NpizZvKzr8)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
