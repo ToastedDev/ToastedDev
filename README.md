@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Celavets & Aeemge got promoted by MrBeast! (READ DESC) | Celavets vs Aeemge](https://www.youtube.com/watch?v=7cCqP8TnCEg)
 - [Dumb kids be like...](https://www.youtube.com/watch?v=7cfjx3g5vqQ)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
 - [I FCED BLUE ZENITH! | xi - Blue Zenith [Hard] 99.91% FC (SS Choke) | TCAplaysosu!](https://www.youtube.com/watch?v=ndt5Xp9l_lw)
-- [Its _Midnight, take my verified checkmark. | TCA Tech Shorts](https://www.youtube.com/watch?v=su5togUj_x4)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
