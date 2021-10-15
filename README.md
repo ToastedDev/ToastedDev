@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Celavets & Aeemge got promoted by MrBeast! (READ DESC) | Celavets vs Aeemge](https://www.youtube.com/watch?v=7cCqP8TnCEg)
+- [Celavets & Aeemge got promoted by MrBeast! (READ DESC) | Celavets vs Aeemge](https://www.youtube.com/watch?v=V1ZX2X5zt_A)
 - [Dumb kids be like...](https://www.youtube.com/watch?v=7cfjx3g5vqQ)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
