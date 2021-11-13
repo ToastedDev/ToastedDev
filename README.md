@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [stonks](https://www.youtube.com/watch?v=AovCnM-RnKI)
+- [can&#39;t log on to the DwowellSMP so we watchin funny animals](https://www.youtube.com/watch?v=AovCnM-RnKI)
 - [Herobrine entered our Minecraft server... | Encountering Herobrine - S1 • E1](https://www.youtube.com/watch?v=VcHdM0aGf_U)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
