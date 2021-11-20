@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [glass factory go brrrrrrrrrrr](https://www.youtube.com/watch?v=MG0FBcrOgUY)
 - [Herobrine entered our Minecraft server... | Encountering Herobrine - S1 • E1](https://www.youtube.com/watch?v=VcHdM0aGf_U)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
 - [I NEARLY FCED A 4.35 ⭐ | MOMOIRO CLOVER Z - SANTA SAN [Light Insane] +NM 3❌| TCAplaysosu!](https://www.youtube.com/watch?v=ufgQbtogJaI)
 - [I FCED BLUE ZENITH! | xi - Blue Zenith [Hard] 99.91% FC &lpar;SS Choke&rpar; | TCAplaysosu!](https://www.youtube.com/watch?v=ndt5Xp9l_lw)
+- [Its _Midnight, take my verified checkmark. | TCA Tech Shorts](https://www.youtube.com/watch?v=su5togUj_x4)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
