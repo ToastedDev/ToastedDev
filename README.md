@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/NotTCA/PainBot/issues/1) in [NotTCA/PainBot](https://github.com/NotTCA/PainBot)
+1. ❗️ Opened issue [#1](https://github.com/TCACodes/UtilityMan/issues/1) in [TCACodes/UtilityMan](https://github.com/TCACodes/UtilityMan)
 <!--END_SECTION:activity-->
 </details>
 
