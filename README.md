@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [coding slash commands for my bot while also talking to chat](https://www.youtube.com/watch?v=lXW8_4rU-5I)
 - [Me &amp; my friends out of context!](https://www.youtube.com/watch?v=Q6KgPu5iobQ)
 - [My Discord group sings Rick Astley - Never Gonna Give You Up!](https://www.youtube.com/watch?v=m8VguSwN2_Y)
 - [Herobrine entered our Minecraft server... | Encountering Herobrine - S1 • E1](https://www.youtube.com/watch?v=VcHdM0aGf_U)
 - [Celavets and Aeemge behind the scenes be like...](https://www.youtube.com/watch?v=UVOy4gdRIJI)
+- [Its _Midnight, take my verified checkmark. | TCA Tech Shorts](https://www.youtube.com/watch?v=su5togUj_x4)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
