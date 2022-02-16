@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/TCACodes/UtilityMan/issues/1) in [TCACodes/UtilityMan](https://github.com/TCACodes/UtilityMan)
+1. 💪 Opened PR [#1708](https://github.com/is-a-dev/register/pull/1708) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
