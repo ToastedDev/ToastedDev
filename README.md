@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1708](https://github.com/is-a-dev/register/pull/1708) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❗️ Closed issue [#1](https://github.com/TCATech/PainBot/issues/1) in [TCATech/PainBot](https://github.com/TCATech/PainBot)
 <!--END_SECTION:activity-->
 </details>
 
