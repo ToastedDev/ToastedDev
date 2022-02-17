@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TCATech/PainBot/issues/1) in [TCATech/PainBot](https://github.com/TCATech/PainBot)
+1. ❗️ Opened issue [#1](https://github.com/TCATech/Musicful/issues/1) in [TCATech/Musicful](https://github.com/TCATech/Musicful)
 <!--END_SECTION:activity-->
 </details>
 
