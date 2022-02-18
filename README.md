@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
-- 🔭 I’m currently working on **[PainBot.](https://github.com/TCACodes/PainBot)**
+- 🔭 I’m currently working on **[Musicful.](https://github.com/TCATech/Musicful)**
 - 💬 Ask me about **anything!**
 - ⚡ Fun fact: **If it wasn't obvious already, I love coding in JavaScript.**
 
