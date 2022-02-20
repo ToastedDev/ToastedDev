@@ -40,10 +40,10 @@
 
 <!-- YOUTUBE:START -->
 - [My Discord group sings Rick Astley - Never Gonna Give You Up!](https://www.youtube.com/watch?v=m8VguSwN2_Y)
-- [Its _Midnight, take my verified checkmark. | TCA Tech Shorts](https://www.youtube.com/watch?v=su5togUj_x4)
 - [I install Windows 10 and Windows 7 in a VM. &lpar;TImelapse&rpar; | TCA Tech 100 Sub Special](https://www.youtube.com/watch?v=0NpizZvKzr8)
 - [BIG BRAIN AMONG US &lpar;feat. Dwowell Plays, Randomplays, Mēmërgàñg, and Lucas&rpar; | TCA Tech](https://www.youtube.com/watch?v=uBQC77sObqY)
 - [How to press F on a keyboard - Membrane edition | #Shorts](https://www.youtube.com/watch?v=23LnpONVmOc)
+- [I&#39;m a fast typer &lpar;Keyboard ASMR, I guess...&rpar; | TCA Tech](https://www.youtube.com/watch?v=jGQjQoyX3rk)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
