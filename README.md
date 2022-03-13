@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/TCATech/Musicful/issues/2) in [TCATech/Musicful](https://github.com/TCATech/Musicful)
+1. ❗️ Opened issue [#3](https://github.com/TCATech/Musicful/issues/3) in [TCATech/Musicful](https://github.com/TCATech/Musicful)
 <!--END_SECTION:activity-->
 </details>
 
