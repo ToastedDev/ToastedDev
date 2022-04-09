@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [g8speedy in a nutshell when he tries hot sauce...](https://www.youtube.com/watch?v=f9vo_sIt_uA)
 - [Humans when they invent teleportation...](https://www.youtube.com/watch?v=5z5bE3ZXJdM)
 - [The official Not TCA Trailer &lpar;as of March 26, 2022&rpar;](https://www.youtube.com/watch?v=K3YCiDt0Z90)
 - [Can you sit on a stonecutter? | Fact Or Cap](https://www.youtube.com/watch?v=M5reMip3gbo)
 - [My Discord group sings Rick Astley - Never Gonna Give You Up!](https://www.youtube.com/watch?v=m8VguSwN2_Y)
-- [I install Windows 10 and Windows 7 in a VM. &lpar;TImelapse&rpar; | TCA Tech 100 Sub Special](https://www.youtube.com/watch?v=0NpizZvKzr8)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
