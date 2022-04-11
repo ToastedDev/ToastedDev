@@ -32,10 +32,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/1024px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/>][audio]
 [<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
 
-### 🎧 Spotify
-
-[<img src="https://spotifynp.vercel.app/api/spotify" alt="TCA Spotify"/>](https://open.spotify.com/user/9lnj1rcd8svfgkqkgab9fmpq9?si=fc6e56a4301c4773)
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
