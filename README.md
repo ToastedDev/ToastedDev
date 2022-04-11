@@ -52,7 +52,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/TCATech/Roleful/issues/2) in [TCATech/Roleful](https://github.com/TCATech/Roleful)
+1. 💪 Opened PR [#48](https://github.com/aakhilv/runs-on.tech/pull/48) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
 <!--END_SECTION:activity-->
 </details>
 
