@@ -48,7 +48,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/aakhilv/runs-on.tech/pull/48) in [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech)
+1. 💪 Opened PR [#70](https://github.com/denosaurs/mod.land/pull/70) in [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
 <!--END_SECTION:activity-->
 </details>
 
