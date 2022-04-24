@@ -48,7 +48,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/denosaurs/mod.land/pull/70) in [denosaurs/mod.land](https://github.com/denosaurs/mod.land)
+1. 💪 Opened PR [#1](https://github.com/TCATech/JavaSkripp/pull/1) in [TCATech/JavaSkripp](https://github.com/TCATech/JavaSkripp)
 <!--END_SECTION:activity-->
 </details>
 
