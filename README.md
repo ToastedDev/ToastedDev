@@ -48,7 +48,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/TCATech/JavaSkripp/pull/1) in [TCATech/JavaSkripp](https://github.com/TCATech/JavaSkripp)
+1. ❗️ Opened issue [#3](https://github.com/TCATech/JavaSkripp/issues/3) in [TCATech/JavaSkripp](https://github.com/TCATech/JavaSkripp)
 <!--END_SECTION:activity-->
 </details>
 
