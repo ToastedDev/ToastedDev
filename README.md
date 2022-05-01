@@ -32,6 +32,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/1024px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/>][audio]
 [<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
 
+### ⌨ Discord Status
+![](https://discord.c99.nl/widget/theme-1/674914596108369954.png)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
