@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TCA&#39;s Coding Mix | Full Mix](https://www.youtube.com/watch?v=smXr-F99wtw)
 - [g8speedy in a nutshell when he tries hot sauce...](https://www.youtube.com/watch?v=f9vo_sIt_uA)
 - [Humans when they invent teleportation...](https://www.youtube.com/watch?v=5z5bE3ZXJdM)
 - [The official Not TCA Trailer &lpar;as of March 26, 2022&rpar;](https://www.youtube.com/watch?v=K3YCiDt0Z90)
 - [Can you sit on a stonecutter? | Fact Or Cap](https://www.youtube.com/watch?v=M5reMip3gbo)
+- [My Discord group sings Rick Astley - Never Gonna Give You Up!](https://www.youtube.com/watch?v=m8VguSwN2_Y)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][yt]
