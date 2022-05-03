@@ -51,7 +51,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TCATech/JavaSkripp/pull/2) in [TCATech/JavaSkripp](https://github.com/TCATech/JavaSkripp)
+1. 🎉 Merged PR [#2](https://github.com/TCATech/PainBot/pull/2) in [TCATech/PainBot](https://github.com/TCATech/PainBot)
 <!--END_SECTION:activity-->
 </details>
 
