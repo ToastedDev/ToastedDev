@@ -51,7 +51,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TCATech/PainBot/pull/2) in [TCATech/PainBot](https://github.com/TCATech/PainBot)
+1. ❌ Closed PR [#5](https://github.com/TCATech/Musicful/pull/5) in [TCATech/Musicful](https://github.com/TCATech/Musicful)
 <!--END_SECTION:activity-->
 </details>
 
