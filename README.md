@@ -1,12 +1,17 @@
+![](https://i.ibb.co/ftmVb1s/tca-tech-banner.png)
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> I'm TCA!</h1>
 
-- 🔭 I’m currently working on **[JavaSkripp.](https://github.com/TCATech/JavaSkripp/tree/music)**
+***
+
+- ⌨ I’m currently working on **[Musicful/Waveform.](https://github.com/TCATech/Waveform)**
 - 💬 Ask me about **anything!**
-- ⚡ Fun fact: **If it wasn't obvious already, I love coding in JavaScript.**
+- 💖 I love making **Discord bots**!
+- 💻 I have a **[website!](website)**
+
+***
 
 ### 💬 Socials
 [<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
-[<img align="left" alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][fb]
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
 [<img align="left" alt="Twitch" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
@@ -45,7 +50,7 @@
 - [g8speedy in a nutshell when he tries hot sauce...](https://www.youtube.com/watch?v=f9vo_sIt_uA)
 <!-- YOUTUBE:END -->
 
-[➡️ more videos...][yt]
+[➡️ more videos...][ytvids]
 
 <details>
 <summary>:zap: Recent Activity</summary>
@@ -68,12 +73,12 @@
 </details>
 
 <!-- Socials -->
+[website]: https://nottca.tk
 [yt]: https://youtube.com/c/NotTCA
-[fb]: https://facebook.com/tcatechyt
 [insta]: https://instagram.com/NotTCA
 [tweet]: https://twitter.com/imTCA_
-[twitch]: https://twitch.tv/imTCA
-[discord]: https://discord.com/invite/vCRYvPtZ2P
+[twitch]: https://twitch.tv/NotTCA
+[discord]: https://discord.com/invite/t7e48xn5Nq
 [reddit]: https://reddit.com/r/TCATech
 [osu]: https://osu.ppy.sh/u/imTCA
 
@@ -91,5 +96,6 @@
 [gosu]: https://github.com/l3lackShark/gosumemory
 
 <!-- Other Links -->
+[ytvids]: https://youtube.com/c/NotTCA/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
