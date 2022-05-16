@@ -6,7 +6,7 @@
 - ⌨ I’m currently working on **[Musicful/Waveform.](https://github.com/TCATech/Waveform)**
 - 💬 Ask me about **anything!**
 - 💖 I love making **Discord bots**!
-- 💻 I have a **[website!](website)**
+- 💻 I have a **[website!][website]**
 
 ***
 
