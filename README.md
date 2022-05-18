@@ -38,7 +38,7 @@
 [<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
 
 ### ⌨ Discord Status
-![](https://discord.c99.nl/widget/theme-3/674914596108369954.png)
+[<img src="https://discord.c99.nl/widget/theme-3/674914596108369954.png" alt="discord"/>][status]
 
 ### 📺 Latest YouTube Videos
 
@@ -99,3 +99,4 @@
 [ytvids]: https://youtube.com/c/NotTCA/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
+[status]: https://discord.gg/wQwXgqCBHN
