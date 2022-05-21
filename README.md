@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Compilation of the best Not TCA clips &lpar;as of May 2022&rpar;](https://www.youtube.com/watch?v=tULORFT55jc)
 - [[REUPLOAD] There are two types of people...](https://www.youtube.com/watch?v=pJwbON0j7Rc)
 - [EPIC CHAIR!!!!! | Car Racing Chair Ramp Challenge S1E1](https://www.youtube.com/watch?v=BjExmAS7aZk)
 - [Coding and Chill? I guess? | Recoding PainBot&#39;s database](https://www.youtube.com/watch?v=QyPs0jKoVDM)
 - [Coding and Chill? I guess? | Coding Public Discord Bots](https://www.youtube.com/watch?v=GZd8wNhVh4g)
-- [Coding and Chill? I guess? | Coding Public &lpar;and Private 👀&rpar; Discord Bots](https://www.youtube.com/watch?v=VjId3yVXX7k)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
