@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Making a music bot for my friend](https://www.youtube.com/watch?v=clyhqtG_DXM)
 - [How it feels to be strangled 🗿](https://www.youtube.com/watch?v=zqrOL9X7VNE)
 - [Compilation of the best Not TCA clips &lpar;as of May 2022&rpar;](https://www.youtube.com/watch?v=tULORFT55jc)
 - [[REUPLOAD] There are two types of people...](https://www.youtube.com/watch?v=pJwbON0j7Rc)
 - [EPIC CHAIR!!!!! | Car Racing Chair Ramp Challenge S1E1](https://www.youtube.com/watch?v=BjExmAS7aZk)
-- [Coding and Chill? I guess? | Recoding PainBot&#39;s database](https://www.youtube.com/watch?v=QyPs0jKoVDM)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
