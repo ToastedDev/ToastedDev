@@ -38,7 +38,7 @@
 [<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
 
 ### ⌨ Discord Status
-[<img src="https://discord.c99.nl/widget/theme-3/674914596108369954.png" alt="discord"/>][status]
+[<img src="https://discord.c99.nl/widget/theme-3/955408387905048637.png" alt="discord"/>][status]
 
 ### 📺 Latest YouTube Videos
 
