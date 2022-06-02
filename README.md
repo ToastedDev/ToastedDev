@@ -1,4 +1,4 @@
-![](https://i.ibb.co/ftmVb1s/tca-tech-banner.png)
+[<img src="https://i.ibb.co/ftmVb1s/tca-tech-banner.png" alt="tcatech"/>][tcatech]
 <h1 align="center">Hello there! I'm TCA!</h1>
 
 ***
@@ -100,3 +100,4 @@
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
+[tcatech]: https://github.com/TCATech
