@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Will be building a house today [#DwowellSMP]](https://www.youtube.com/watch?v=zqll04ZFAi8)
 - [Playing some Minecraft with people [#DwowellSMP]](https://www.youtube.com/watch?v=CHVJmHuvMKM)
 - [[REUPLOAD] PINGED 600 TIMES IN MY DISCORD DMS! &lpar;feat. WindowsFX&rpar;](https://www.youtube.com/watch?v=5axF8G2YWRI)
 - [Annoucement | Graphify is back!](https://www.youtube.com/watch?v=SZaEwgpY9zc)
 - [[REUPLOAD] Dumb kids be like...](https://www.youtube.com/watch?v=etV_HQiEFk4)
-- [How it feels to be strangled 🗿](https://www.youtube.com/watch?v=zqrOL9X7VNE)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
