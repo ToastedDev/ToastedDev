@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Checking out 1.19](https://www.youtube.com/watch?v=s9oZeSpajz8)
 - [Probably building a house today [#DwowellSMP]](https://www.youtube.com/watch?v=asH3yEVhHbU)
 - [Will be building a house today [#DwowellSMP]](https://www.youtube.com/watch?v=zqll04ZFAi8)
 - [Playing some Minecraft with people [#DwowellSMP]](https://www.youtube.com/watch?v=CHVJmHuvMKM)
 - [[REUPLOAD] PINGED 600 TIMES IN MY DISCORD DMS! &lpar;feat. WindowsFX&rpar;](https://www.youtube.com/watch?v=5axF8G2YWRI)
-- [Annoucement | Graphify is back!](https://www.youtube.com/watch?v=SZaEwgpY9zc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
