@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co/ftmVb1s/tca-tech-banner.png" alt="tcatech"/>][tcatech]
+[<img src="https://i.ibb.co/6Y6zVJH/nottcajs-banner.jpg" alt="tcatech" />][nottcajs]
 <h1 align="center">Hello there! I'm TCA!</h1>
 
 ***
@@ -100,4 +100,4 @@
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
-[tcatech]: https://github.com/TCATech
+[nottcajs]: https://youtube.com/channel/UCAFOyh01K892OAqc4JR3qxA/
