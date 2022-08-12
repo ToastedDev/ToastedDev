@@ -3,7 +3,7 @@
 
 ***
 
-- ⌨ I’m currently working on **[Breab.](https://github.com/TCATech/Breab)**
+- ⌨ I’m currently working on **[PainBot.](https://github.com/TCATech/PainBot/tree/v3)**
 - 💬 Ask me about **anything!**
 - 💖 I love making **Discord bots**!
 - 💻 I have a **[website!][website]**
