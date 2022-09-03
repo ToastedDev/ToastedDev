@@ -43,11 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Preparing for death [KalkSMP]](https://www.youtube.com/watch?v=fNlcFdhUHkA)
-- [Every time @Ryan Trahan said &quot;THE GAME PLAN&quot; &lpar;ALL Episodes&rpar;](https://www.youtube.com/watch?v=6O7PJHOOO6o)
-- [Every time @Ryan Trahan said &quot;THE GAME PLAN&quot; &lpar;Day 1-24&rpar;](https://www.youtube.com/watch?v=u-Y8muB84aY)
-- [The new Not TCA trailer! &lpar;Not TCA Show v2&rpar;](https://www.youtube.com/watch?v=BNJ3TNwnVXk)
-- [[REUPLOAD] PINGED 600 TIMES IN MY DISCORD DMS! &lpar;feat. WindowsFX&rpar;](https://www.youtube.com/watch?v=5axF8G2YWRI)
+- [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
