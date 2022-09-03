@@ -70,7 +70,7 @@
 
 <!-- Socials -->
 [website]: https://nottca.tk
-[yt]: https://youtube.com/c/NotTCA
+[yt]: https://youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q
 [insta]: https://instagram.com/NotTCA
 [tweet]: https://twitter.com/imTCA_
 [twitch]: https://twitch.tv/NotTCA
@@ -92,7 +92,7 @@
 [gosu]: https://github.com/l3lackShark/gosumemory
 
 <!-- Other Links -->
-[ytvids]: https://youtube.com/c/NotTCA/videos
+[ytvids]: https://www.youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
