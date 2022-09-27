@@ -43,6 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [building livecounts.tk v2 live](https://www.youtube.com/watch?v=Aacs4aD1oaE)
 - [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
 <!-- YOUTUBE:END -->
 
