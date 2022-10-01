@@ -43,6 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [coding a bot for @Graphify&#39;s discord server](https://www.youtube.com/watch?v=4NnBQi4MH4M)
 - [building livecounts.tk v2 live](https://www.youtube.com/watch?v=Aacs4aD1oaE)
 - [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
 <!-- YOUTUBE:END -->
