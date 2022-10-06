@@ -53,7 +53,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/TCATech/Musicful/pull/5) in [TCATech/Musicful](https://github.com/TCATech/Musicful)
+1. 💪 Opened PR [#7692](https://github.com/js-org/js.org/pull/7692) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 </details>
 
