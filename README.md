@@ -45,7 +45,6 @@
 <!-- YOUTUBE:START -->
 - [creating custom counts for @Ummerate Madness [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
 - [building livecounts.tk v2 live [STREAM VOD]](https://www.youtube.com/watch?v=Aacs4aD1oaE)
-- [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
