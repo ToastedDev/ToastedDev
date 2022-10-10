@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7692](https://github.com/js-org/js.org/issues/7692) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🎉 Merged PR [#1](https://github.com/NotTCA/tcabn.tk/pull/1) in [NotTCA/tcabn.tk](https://github.com/NotTCA/tcabn.tk)
 <!--END_SECTION:activity-->
 </details>
 
