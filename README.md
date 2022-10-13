@@ -3,7 +3,7 @@
 
 ***
 
-- ⌨ I’m currently working on **[PainBot.](https://github.com/TCATech/PainBot/tree/v3)**
+- ⌨ I’m currently working on **[Breadify.](https://github.com/Skripify/Breadify)**
 - 💬 Ask me about **anything!**
 - 💖 I love making **Discord bots**!
 - 💻 I have a **[website!][website]**
@@ -71,7 +71,7 @@
 </details>
 
 <!-- Socials -->
-[website]: https://nottca.tk
+[website]: https://tcabn.tk
 [yt]: https://youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q
 [insta]: https://instagram.com/NotTCA
 [tweet]: https://twitter.com/imTCA_
