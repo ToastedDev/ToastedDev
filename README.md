@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NotTCA/tcabn.tk/pull/1) in [NotTCA/tcabn.tk](https://github.com/NotTCA/tcabn.tk)
+1. 🎉 Merged PR [#1](https://github.com/Wikistats/website/pull/1) in [Wikistats/website](https://github.com/Wikistats/website)
 <!--END_SECTION:activity-->
 </details>
 
