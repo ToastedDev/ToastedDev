@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Wikistats/website/pull/5) in [Wikistats/website](https://github.com/Wikistats/website)
+1. 🗣 Commented on [#3](https://github.com/udit2303/discord-chatbot/issues/3) in [udit2303/discord-chatbot](https://github.com/udit2303/discord-chatbot)
 <!--END_SECTION:activity-->
 </details>
 
