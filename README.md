@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Wikistats/website/issues/5) in [Wikistats/website](https://github.com/Wikistats/website)
+1. 💪 Opened PR [#1](https://github.com/tcaNPM/popcat.js/pull/1) in [tcaNPM/popcat.js](https://github.com/tcaNPM/popcat.js)
 <!--END_SECTION:activity-->
 </details>
 
