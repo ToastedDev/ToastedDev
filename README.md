@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/udit2303/discord-chatbot/issues/3) in [udit2303/discord-chatbot](https://github.com/udit2303/discord-chatbot)
+1. 🗣 Commented on [#5](https://github.com/Wikistats/website/issues/5) in [Wikistats/website](https://github.com/Wikistats/website)
 <!--END_SECTION:activity-->
 </details>
 
