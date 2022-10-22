@@ -54,7 +54,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Skripify/Breadify/pull/1) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
+1. 🎉 Merged PR [#1](https://github.com/tcaNPM/create-djs-app/pull/1) in [tcaNPM/create-djs-app](https://github.com/tcaNPM/create-djs-app)
 <!--END_SECTION:activity-->
 </details>
 
