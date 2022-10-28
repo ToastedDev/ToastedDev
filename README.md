@@ -43,7 +43,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [coding a discord bot for united server of statistics](https://www.youtube.com/watch?v=W2y1fRpoBfM)
 - [creating custom counts for @Ummerate Madness [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
 - [building livecounts.tk v2 live [STREAM VOD]](https://www.youtube.com/watch?v=Aacs4aD1oaE)
 - [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
