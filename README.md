@@ -43,6 +43,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sully - Fall Guy &lpar;feat. CG5 &amp; Finn M-K&rpar; [MUSIC VIDEO ONLY]](https://www.youtube.com/watch?v=yrnKTleZay4)
 - [coding a discord bot for united server of statistics](https://www.youtube.com/watch?v=W2y1fRpoBfM)
 - [creating custom counts for @Ummerate Madness [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
 - [building livecounts.tk v2 live [STREAM VOD]](https://www.youtube.com/watch?v=Aacs4aD1oaE)
