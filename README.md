@@ -56,7 +56,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Wikistats/website/pull/9) in [Wikistats/website](https://github.com/Wikistats/website)
+1. 🎉 Merged PR [#11](https://github.com/Wikistats/website/pull/11) in [Wikistats/website](https://github.com/Wikistats/website)
 <!--END_SECTION:activity-->
 </details>
 
