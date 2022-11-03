@@ -56,7 +56,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tcaNPM/create-djs-app/pull/1) in [tcaNPM/create-djs-app](https://github.com/tcaNPM/create-djs-app)
+1. 🎉 Merged PR [#9](https://github.com/Wikistats/website/pull/9) in [Wikistats/website](https://github.com/Wikistats/website)
 <!--END_SECTION:activity-->
 </details>
 
