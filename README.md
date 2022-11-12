@@ -56,7 +56,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Skripify/Breadify/pull/1) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
+1. ❌ Closed PR [#5](https://github.com/Wikistats/website/pull/5) in [Wikistats/website](https://github.com/Wikistats/website)
 <!--END_SECTION:activity-->
 </details>
 
