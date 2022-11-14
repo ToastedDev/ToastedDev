@@ -56,7 +56,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Wikistats/website/pull/5) in [Wikistats/website](https://github.com/Wikistats/website)
+1. 💪 Opened PR [#2](https://github.com/Skripify/Breadify/pull/2) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
 <!--END_SECTION:activity-->
 </details>
 
