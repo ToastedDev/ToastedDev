@@ -56,7 +56,7 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Skripify/Breadify/pull/2) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
+1. 🎉 Merged PR [#2](https://github.com/Skripify/Breadify/pull/2) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
 <!--END_SECTION:activity-->
 </details>
 
