@@ -64,7 +64,7 @@ Hello world! I'm Toastify!
 </details>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
+<summary>📊 Stats</summary>
 
 <br />
 
