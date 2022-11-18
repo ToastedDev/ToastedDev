@@ -1,5 +1,8 @@
-[<img src="https://i.ibb.co/6Y6zVJH/nottcajs-banner.jpg" alt="tcatech" />][nottcajs]
-<h1 align="center">Hello there! I'm TCA!</h1>
+<h1 align="center">
+Hello world! I'm Toastify!
+
+<sub><sup>more commonly known as TCA</sup></sub>
+</h1>
 
 ***
 
@@ -76,7 +79,7 @@
 
 <!-- Socials -->
 [website]: https://tcabn.tk
-[yt]: https://youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q
+[yt]: https://youtube.com/@ToastifyDev
 [insta]: https://instagram.com/NotTCA
 [tweet]: https://twitter.com/imTCA_
 [twitch]: https://twitch.tv/NotTCA
@@ -102,4 +105,3 @@
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
-[nottcajs]: https://youtube.com/channel/UCAFOyh01K892OAqc4JR3qxA/
