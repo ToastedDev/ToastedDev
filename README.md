@@ -1,4 +1,3 @@
-<br />
 <h1 align="center">
 Hello world! I'm Toastify!
 
