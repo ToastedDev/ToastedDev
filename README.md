@@ -59,7 +59,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Skripify/Breadify/issues/5) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
+1. ❗️ Opened issue [#6](https://github.com/Skripify/Breadify/issues/6) in [Skripify/Breadify](https://github.com/Skripify/Breadify)
 <!--END_SECTION:activity-->
 </details>
 
