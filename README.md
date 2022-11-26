@@ -68,13 +68,13 @@ Hello world! I'm Toastify!
 
 <br />
 
-[<img src="https://github-readme-stats.vercel.app/api?username=NotTCA&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=ToastifyDev&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotTCA&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastifyDev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
 
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nottca&theme=highcontrast&hide_border=true" alt="WakaTime Stats" width="550px" />][stats]
   
-[<img src="https://activity-graph.herokuapp.com/graph?username=NotTCA&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Top Langs" width="830px" />][graph]
+[<img src="https://activity-graph.herokuapp.com/graph?username=ToastifyDev&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Top Langs" width="830px" />][graph]
 </details>
 
 <!-- Socials -->
