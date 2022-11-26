@@ -14,31 +14,20 @@ Hello world! I'm Toastify!
 ***
 
 ### 💬 Socials
-[<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />][yt]
-[<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][insta]
-[<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][tweet]
-[<img align="left" alt="Twitch" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitch.svg" />][twitch]
-[<img align="left" alt="Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
-[<img align="left" alt="Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />][reddit]
-[<img align="left" alt="osu!" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/osu.svg" />][osu]
+[<img align="left" alt="YouTube" width="32px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][yt]
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluency/48/null/twitter.png" />][tweet]
+[<img align="left" alt="Twitch" width="32px" src="https://img.icons8.com/color/48/null/twitch--v2.png" />][twitch]
+[<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/color/48/null/discord--v2.png" />][discord]
+[<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/fluency/48/null/secured-letter.png" />][mail]
 
 <br />
 
 ### 👨‍💻 Languages I'm Familiar With
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
-[<img src="https://i.imgur.com/tjPOPhB.png" alt="ahk" width="40" height="40"/>][ahk]
-
-
-### 🔧 Programs I'm Familiar With
-
-[<img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x" alt="catJAM" width="40" height="40"/>][catJAM]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/>][premiere]
-[<img src="https://content.invisioncic.com/r125076/monthly_2020_07/2128238399_paintneticon(6).png.4b20725c1c9d337627a3a03c9ae7adec.png" alt="paint.net" width="40" height="40"/>][paint]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>][photoshop]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1200px-OBS.svg.png" alt="obs" width="40" height="40"/>][obs]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/1024px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/>][audio]
-[<img src="https://raw.githubusercontent.com/l3lackShark/gosumemory/master/out.ico" alt="gosumemory" width="40" height="40"/>][gosu]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>][javascript]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>][css]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>][javascript]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>][typescript]
 
 ### ⌨ Discord Status
 [<img src="https://discord.c99.nl/widget/theme-3/955408387905048637.png" alt="discord"/>][status]
@@ -78,27 +67,18 @@ Hello world! I'm Toastify!
 </details>
 
 <!-- Socials -->
-[website]: https://tcabn.tk
+[website]: https://toastify.tk
 [yt]: https://youtube.com/@ToastifyDev
-[insta]: https://instagram.com/NotTCA
-[tweet]: https://twitter.com/imTCA_
-[twitch]: https://twitch.tv/NotTCA
-[discord]: https://discord.com/invite/t7e48xn5Nq
-[reddit]: https://reddit.com/r/TCATech
-[osu]: https://osu.ppy.sh/u/imTCA
+[tweet]: https://twitter.com/ToastifyDev
+[twitch]: https://twitch.tv/ToastifyDev
+[discord]: https://toastify.tk/discord
+[mail]: mailto:hey@toastify.tk
 
 <!-- Languages -->
+[html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
-[ahk]: https://autohotkey.com
-
-<!-- Tools -->
-[catJAM]: https://betterttv.com/emotes/5f1b0186cf6d2144653d2970
-[premiere]: https://www.adobe.com/sea/products/premiere.html
-[paint]: https://getpaint.net
-[photoshop]: https://www.adobe.com/sea/products/photoshop.html
-[obs]: https://obsproject.com
-[audio]: https://audacityteam.org
-[gosu]: https://github.com/l3lackShark/gosumemory
+[typescript]: https://en.wikipedia.org/wiki/TypeScript
 
 <!-- Other Links -->
 [ytvids]: https://www.youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q/videos
