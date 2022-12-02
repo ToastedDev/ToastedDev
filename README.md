@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TCATech/Roleful/issues/1) in [TCATech/Roleful](https://github.com/TCATech/Roleful)
+1. 💪 Opened PR [#1](https://github.com/Skripify/Tuneify/pull/1) in [Skripify/Tuneify](https://github.com/Skripify/Tuneify)
 <!--END_SECTION:activity-->
 </details>
 
