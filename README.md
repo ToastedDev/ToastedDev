@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Skripify/Tuneify/pull/1) in [Skripify/Tuneify](https://github.com/Skripify/Tuneify)
+1. 🎉 Merged PR [#1](https://github.com/Skripify/Tuneify/pull/1) in [Skripify/Tuneify](https://github.com/Skripify/Tuneify)
 <!--END_SECTION:activity-->
 </details>
 
