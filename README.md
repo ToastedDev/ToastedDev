@@ -41,7 +41,7 @@ Hello world! I'm Toastify!
 - [coding breadify](https://www.youtube.com/watch?v=4aOCQiLLSP0)
 - [Sully - Fall Guy &lpar;feat. CG5 &amp; Finn M-K&rpar; [MUSIC VIDEO ONLY]](https://www.youtube.com/watch?v=yrnKTleZay4)
 - [doing everything but coding a bot for united server of statistics [STREAM VOD]](https://www.youtube.com/watch?v=W2y1fRpoBfM)
-- [creating custom counts for @Ummerate Madness [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
+- [creating custom counts for @UmmerateMadnessStats [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
