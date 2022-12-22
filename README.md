@@ -37,11 +37,11 @@ Hello world! I'm Toastify!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MrBeast hits 122.6M! | Timelapse](https://www.youtube.com/watch?v=XuNn0p69D9I)
 - [coding breadify](https://www.youtube.com/watch?v=4aOCQiLLSP0)
 - [Sully - Fall Guy &lpar;feat. CG5 &amp; Finn M-K&rpar; [MUSIC VIDEO ONLY]](https://www.youtube.com/watch?v=yrnKTleZay4)
 - [doing everything but coding a bot for united server of statistics [STREAM VOD]](https://www.youtube.com/watch?v=W2y1fRpoBfM)
 - [creating custom counts for @Ummerate Madness [STREAM VOD]](https://www.youtube.com/watch?v=r1ffuIdmjK0)
-- [building livecounts.tk v2 live [STREAM VOD]](https://www.youtube.com/watch?v=Aacs4aD1oaE)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
