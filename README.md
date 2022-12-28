@@ -37,11 +37,11 @@ Hello world! I'm Toastify!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [refactoring create djs app](https://www.youtube.com/watch?v=heUjeJ9LVk4)
 - [fysc or smth idk I&#39;m bored](https://www.youtube.com/watch?v=ktrvdxxfWpo)
 - [coding an event countdown bot](https://www.youtube.com/watch?v=3cbcaco5OVU)
 - [mrbeast live subcount but it&#39;s 2019](https://www.youtube.com/watch?v=n0g91tnEZZw)
 - [mrbeast live subcount idk I&#39;m bored](https://www.youtube.com/watch?v=yLtwjtIA2jg)
+- [MrBeast hits 122.6M! | Timelapse](https://www.youtube.com/watch?v=XuNn0p69D9I)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
