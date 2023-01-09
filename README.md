@@ -37,11 +37,11 @@ Hello world! I'm Toastify!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Toastify passes LCXYZ Stats Bot! [LC.xyz Discord Server XP Timelapse]](https://www.youtube.com/watch?v=cRxh2qxyTpw)
 - [lcxyz top 16 xp](https://www.youtube.com/watch?v=n3Ac-fXc0bU)
 - [lcxyz level stats](https://www.youtube.com/watch?v=e-rgQmV2FWY)
 - [ups and downs](https://www.youtube.com/watch?v=dmqp1xiVDG4)
 - [refactoring create djs app](https://www.youtube.com/watch?v=heUjeJ9LVk4)
-- [coding a custom command bot](https://www.youtube.com/watch?v=3YQVNIzdelI)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
