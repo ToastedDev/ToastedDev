@@ -37,11 +37,11 @@ Hello world! I'm Toastify!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [kingstats team stats](https://www.youtube.com/watch?v=wZ7SroxpCKo)
 - [SocialCounts and Mixerno hit 127.6M! | MrBeast in LC.xyz, SC, and NC/MX Estimations](https://www.youtube.com/watch?v=mu-GmyEUoH0)
 - [Toastify passes LCXYZ Stats Bot! [LC.xyz Discord Server XP Timelapse]](https://www.youtube.com/watch?v=cRxh2qxyTpw)
 - [lcxyz top 16 xp](https://www.youtube.com/watch?v=n3Ac-fXc0bU)
 - [lcxyz level stats](https://www.youtube.com/watch?v=e-rgQmV2FWY)
-- [ups and downs](https://www.youtube.com/watch?v=dmqp1xiVDG4)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
