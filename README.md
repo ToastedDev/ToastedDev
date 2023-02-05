@@ -50,7 +50,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Skripify/Tuneify/pull/1) in [Skripify/Tuneify](https://github.com/Skripify/Tuneify)
+1. 🎉 Merged PR [#1](https://github.com/tcaNPM/animals.js/pull/1) in [tcaNPM/animals.js](https://github.com/tcaNPM/animals.js)
 <!--END_SECTION:activity-->
 </details>
 
