@@ -50,7 +50,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/tarampampam/free-domains/issues/97) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+1. ❗️ Closed issue [#97](https://github.com/tarampampam/free-domains/issues/97) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
 <!--END_SECTION:activity-->
 </details>
 
