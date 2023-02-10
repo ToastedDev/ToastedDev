@@ -50,7 +50,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tcaNPM/jokes.js/pull/2) in [tcaNPM/jokes.js](https://github.com/tcaNPM/jokes.js)
+1. 🎉 Merged PR [#3](https://github.com/tcaNPM/jokes.js/pull/3) in [tcaNPM/jokes.js](https://github.com/tcaNPM/jokes.js)
 <!--END_SECTION:activity-->
 </details>
 
