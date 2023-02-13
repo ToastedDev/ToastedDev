@@ -37,11 +37,9 @@ Hello world! I'm Toastify!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [kingstats team stats](https://www.youtube.com/watch?v=wZ7SroxpCKo)
-- [SocialCounts and Mixerno hit 127.6M! | MrBeast in LC.xyz, SC, and NC/MX Estimations](https://www.youtube.com/watch?v=mu-GmyEUoH0)
-- [Toastify passes LCXYZ Stats Bot! [LC.xyz Discord Server XP Timelapse]](https://www.youtube.com/watch?v=cRxh2qxyTpw)
-- [lcxyz top 16 xp](https://www.youtube.com/watch?v=n3Ac-fXc0bU)
-- [lcxyz level stats](https://www.youtube.com/watch?v=e-rgQmV2FWY)
+- [MrBeast hits 122.6M! | Timelapse](https://www.youtube.com/watch?v=XuNn0p69D9I)
+- [Sully - Fall Guy &lpar;feat. CG5 &amp; Finn M-K&rpar; [MUSIC VIDEO ONLY]](https://www.youtube.com/watch?v=yrnKTleZay4)
+- [[REUPLOAD] Humans when they invent teleportation...](https://www.youtube.com/watch?v=LU0ptCgFbMc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
