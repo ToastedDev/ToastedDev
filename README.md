@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tcaNPM/jokes.js/pull/3) in [tcaNPM/jokes.js](https://github.com/tcaNPM/jokes.js)
+1. 🗣 Commented on [#4972](https://github.com/is-a-dev/register/issues/4972) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
