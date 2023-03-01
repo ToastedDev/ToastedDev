@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4972](https://github.com/is-a-dev/register/issues/4972) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#4984](https://github.com/is-a-dev/register/pull/4984) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
