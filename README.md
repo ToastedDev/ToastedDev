@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ToastedDev/db.json/pull/1) in [ToastedDev/db.json](https://github.com/ToastedDev/db.json)
+1. 💪 Opened PR [#5](https://github.com/ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io/pull/5) in [ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io](https://github.com/ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io)
 <!--END_SECTION:activity-->
 </details>
 
