@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/StatisticalLabs/website/pull/1) in [StatisticalLabs/website](https://github.com/StatisticalLabs/website)
+1. 🗣 Commented on [#1](https://github.com/StatisticalLabs/website/issues/1) in [StatisticalLabs/website](https://github.com/StatisticalLabs/website)
 <!--END_SECTION:activity-->
 </details>
 
