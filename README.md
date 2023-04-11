@@ -48,7 +48,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io/pull/7) in [ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io](https://github.com/ReturnYouTubeSubscribers/returnyoutubesubscribers.github.io)
+1. 💪 Opened PR [#1](https://github.com/StatisticalLabs/website/pull/1) in [StatisticalLabs/website](https://github.com/StatisticalLabs/website)
 <!--END_SECTION:activity-->
 </details>
 
