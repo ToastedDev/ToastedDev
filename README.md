@@ -6,7 +6,7 @@ Hello world! I'm Toastify!
 
 ***
 
-- ⌨ I’m currently working on **[Breadify.](https://github.com/Skripify/Breadify)**
+- ⌨ I’m currently working on **[Statistical.](https://statistical.vercel.app)**
 - 💬 Ask me about **anything!**
 - 💖 I love making **Discord bots**!
 - 💻 I have a **[website!][website]**
@@ -69,8 +69,8 @@ Hello world! I'm Toastify!
 
 <!-- Socials -->
 [website]: https://toastify.tk
-[yt]: https://youtube.com/@ToastifyDev
-[tweet]: https://twitter.com/ToastifyDev
+[yt]: https://youtube.com/@ToastedDev
+[tweet]: https://twitter.com/ToastedDev
 [twitch]: https://twitch.tv/ToastifyDev
 [discord]: https://toastify.tk/discord
 [mail]: mailto:hey@toastify.tk
@@ -82,7 +82,7 @@ Hello world! I'm Toastify!
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
 
 <!-- Other Links -->
-[ytvids]: https://www.youtube.com/channel/UCYmgF3XHt5Mwo2_k9SSDv7Q/videos
+[ytvids]: https://www.youtube.com/@ToastedDev/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
