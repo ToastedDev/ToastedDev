@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/l3lackShark/gosumemory/issues/191) in [l3lackShark/gosumemory](https://github.com/l3lackShark/gosumemory)
+1. 🎉 Merged PR [#1](https://github.com/StatisticalLabs/bot/pull/1) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
 <!--END_SECTION:activity-->
 </details>
 
