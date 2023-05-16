@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/StatisticalLabs/bot/pull/13) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
+1. 🎉 Merged PR [#13](https://github.com/StatisticalLabs/bot/pull/13) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
 <!--END_SECTION:activity-->
 </details>
 
