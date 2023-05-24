@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/pingdotgg/uploadthing/pull/95) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
+1. 🎉 Merged PR [#17](https://github.com/StatisticalLabs/bot/pull/17) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
 <!--END_SECTION:activity-->
 </details>
 
