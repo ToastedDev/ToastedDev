@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/StatisticalLabs/bot/issues/18) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
+1. 🎉 Merged PR [#18](https://github.com/StatisticalLabs/bot/pull/18) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
 <!--END_SECTION:activity-->
 </details>
 
