@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/StatisticalLabs/bot/pull/18) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
+1. 🚀 Published release [v1.1.0](https://github.com/v1.1.0) in [GraphifyStats/playlist](https://github.com/GraphifyStats/playlist)
 <!--END_SECTION:activity-->
 </details>
 
