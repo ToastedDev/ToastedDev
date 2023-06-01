@@ -62,9 +62,9 @@ Hello world! I'm Toastify!
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastedDev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ToastedDev&theme=highcontrast&hide_border=true" alt="WakaTime Stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ToastedDev&theme=highcontrast&hide_border=true&range=last_7_days" alt="WakaTime Stats" width="550px" />][stats]
   
-[<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ToastedDev&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Top Langs" width="830px" />][graph]
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToastedDev&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Activity Graph" width="830px" />][graph]
 </details>
 
 <!-- Socials -->
@@ -84,5 +84,5 @@ Hello world! I'm Toastify!
 <!-- Other Links -->
 [ytvids]: https://www.youtube.com/@ToastedDev/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
-[graph]: https://github.com/SubhamRaoniar28/github-readme-activity-graph
+[graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
