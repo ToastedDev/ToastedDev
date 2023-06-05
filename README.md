@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/StatisticalLabs/bot/pull/20) in [StatisticalLabs/bot](https://github.com/StatisticalLabs/bot)
+1. 💪 Opened PR [#64](https://github.com/EasyScriptJS/EasyScript/pull/64) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)
 <!--END_SECTION:activity-->
 </details>
 
