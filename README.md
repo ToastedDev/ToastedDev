@@ -49,7 +49,7 @@ Hello world! I'm Toastify!
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/EasyScriptJS/EasyScript/pull/67) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)
+1. 💪 Opened PR [#70](https://github.com/EasyScriptJS/EasyScript/pull/70) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)
 <!--END_SECTION:activity-->
 </details>
 
