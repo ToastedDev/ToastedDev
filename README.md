@@ -7,9 +7,9 @@ Hello world! I'm Toasty!
 ***
 
 - ⌨ I’m currently working on **[Toast](https://github.com/ToastyyLabs/Toast)**.
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **anything**!
 - 💖 I love making **Discord bots**!
-- 💻 I have a **[website!][website]**
+- 💻 I have a **[website][website]**.
 
 ***
 
