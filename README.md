@@ -1,12 +1,12 @@
 <h1 align="center">
-Hello world! I'm Toastify!
+Hello world! I'm Toasty!
 
 <sub><sup>more commonly known as TCA</sup></sub>
 </h1>
 
 ***
 
-- ⌨ I’m currently working on **[Statistical.](https://statistical.vercel.app)**
+- ⌨ I’m currently working on **[Toast](https://github.com/ToastyyLabs/Toast)**.
 - 💬 Ask me about **anything!**
 - 💖 I love making **Discord bots**!
 - 💻 I have a **[website!][website]**
