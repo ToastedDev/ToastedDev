@@ -39,9 +39,9 @@ Hello world! I'm Toasty!
 <!-- YOUTUBE:START -->
 - [making a new graphify layout](https://www.youtube.com/watch?v=G013Gw1EvWc)
 - [How one setting KILLED my channel...](https://www.youtube.com/watch?v=2stBjEczTgA)
+- [kingstats team stats](https://www.youtube.com/watch?v=wZ7SroxpCKo)
 - [SocialCounts and Mixerno hit 127.6M! | MrBeast in LC.xyz, SC, and NC/MX Estimations](https://www.youtube.com/watch?v=mu-GmyEUoH0)
 - [Toastify passes LCXYZ Stats Bot! [LC.xyz Discord Server XP Timelapse]](https://www.youtube.com/watch?v=cRxh2qxyTpw)
-- [MrBeast hits 122.6M! | Timelapse](https://www.youtube.com/watch?v=XuNn0p69D9I)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
