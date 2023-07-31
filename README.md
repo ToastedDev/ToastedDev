@@ -37,11 +37,11 @@ Hello world! I'm Toasty!
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [making a new graphify layout part 3](https://www.youtube.com/watch?v=ocur8GvJAZQ)
 - [making a new graphify layout part 2](https://www.youtube.com/watch?v=syQEzPengiI)
 - [designing a layout for @GraphifyStatistics [timelapse]](https://www.youtube.com/watch?v=wgnPTY02V3I)
 - [making a new graphify layout](https://www.youtube.com/watch?v=G013Gw1EvWc)
 - [kingstats team stats](https://www.youtube.com/watch?v=wZ7SroxpCKo)
-- [SocialCounts and Mixerno hit 127.6M! | MrBeast in LC.xyz, SC, and NC/MX Estimations](https://www.youtube.com/watch?v=mu-GmyEUoH0)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
