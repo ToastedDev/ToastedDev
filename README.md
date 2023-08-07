@@ -1,7 +1,5 @@
 <h1 align="center">
-Hello world! I'm Toasty!
-
-<sub><sup>more commonly known as TCA</sup></sub>
+hii! I'm amy :3
 </h1>
 
 ***
