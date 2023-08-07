@@ -48,7 +48,7 @@ hii! I'm amy :3
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/EasyScriptJS/EasyScript/pull/70) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)
+1. 💪 Opened PR [#5](https://github.com/Autolution/autolution/pull/5) in [Autolution/autolution](https://github.com/Autolution/autolution)
 <!--END_SECTION:activity-->
 </details>
 
