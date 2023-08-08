@@ -57,20 +57,20 @@ hii! I'm amy :3
 
 <br />
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ToastedDev&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api?username=HeyItsAmyy&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastedDev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyItsAmyy&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ToastedDev&theme=highcontrast&hide_border=true&range=last_7_days" alt="WakaTime Stats" width="550px" />][stats]
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HeyItsAmyy&theme=highcontrast&hide_border=true&range=last_7_days" alt="WakaTime Stats" width="550px" />][stats]
   
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToastedDev&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Activity Graph" width="830px" />][graph]
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyItsAmyy&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Activity Graph" width="830px" />][graph]
 </details>
 
 <!-- Socials -->
 [website]: https://toastify.tk
-[yt]: https://youtube.com/@ToastedDev
-[tweet]: https://twitter.com/ToastedDev
-[twitch]: https://twitch.tv/ToastifyDev
+[yt]: https://youtube.com/@HeyyItsAmyy
+[tweet]: https://twitter.com/Hey_ItsAmyy
+[twitch]: https://twitch.tv/Heyy_ItsAmyy
 [discord]: https://toastify.tk/discord
 [mail]: mailto:hey@toastify.tk
 
@@ -81,7 +81,7 @@ hii! I'm amy :3
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
 
 <!-- Other Links -->
-[ytvids]: https://www.youtube.com/@ToastedDev/videos
+[ytvids]: https://youtube.com/@HeyyItsAmyy/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
