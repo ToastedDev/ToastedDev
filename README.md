@@ -48,7 +48,7 @@ hii! I'm amy :3
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Autolution/autolution/pull/8) in [Autolution/autolution](https://github.com/Autolution/autolution)
+1. 💪 Opened PR [#10](https://github.com/Autolution/autolution/pull/10) in [Autolution/autolution](https://github.com/Autolution/autolution)
 <!--END_SECTION:activity-->
 </details>
 
