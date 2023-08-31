@@ -35,11 +35,11 @@ hello! the name's toasted
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MORE CHAOSSS | The Voice Call EP #2 &lpar;ft. TERA, YAB ?!, &amp; Terier&rpar;](https://www.youtube.com/watch?v=NGTKp2cxofY)
 - [YAB ?! Counts, Chaos, etc. | The Voice Call EP #1 &lpar;ft. TERA, YAB ?!, &amp; Lean&rpar;](https://www.youtube.com/watch?v=EhECF9xBZbQ)
 - [making a new graphify layout part 3](https://www.youtube.com/watch?v=ocur8GvJAZQ)
 - [making a new graphify layout part 2](https://www.youtube.com/watch?v=syQEzPengiI)
 - [designing a layout for @GraphifyStatistics [timelapse]](https://www.youtube.com/watch?v=wgnPTY02V3I)
-- [making a new graphify layout](https://www.youtube.com/watch?v=G013Gw1EvWc)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
