@@ -35,11 +35,11 @@ hello! the name's toasted
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Happened to Graphify? + YAB ?! Counts Announcements | The Voice Call EP #3](https://www.youtube.com/watch?v=1KHGXt2r9AI)
 - [graphical testing stream](https://www.youtube.com/watch?v=A42iU8DQhPg)
 - [School, YAB ?! Counts, &amp; Anything In Between | The Voice Call EP #2 &lpar;ft. TERA, YAB ?!, &amp; Many More!&rpar;](https://www.youtube.com/watch?v=NGTKp2cxofY)
 - [YAB ?! Counts, Chaos, etc. | The Voice Call EP #1 &lpar;ft. TERA, YAB ?!, &amp; Lean&rpar;](https://www.youtube.com/watch?v=EhECF9xBZbQ)
 - [making a new graphify layout part 3](https://www.youtube.com/watch?v=ocur8GvJAZQ)
-- [making a new graphify layout part 2](https://www.youtube.com/watch?v=syQEzPengiI)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
