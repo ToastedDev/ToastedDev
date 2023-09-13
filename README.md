@@ -1,4 +1,4 @@
-#hello! the name's toasted
+# hello! the name's toasted
 
 I'm a 13 year old Discord bot and frontend developer. I've been developing for almost 3 years, and have amassed great skill.
 
