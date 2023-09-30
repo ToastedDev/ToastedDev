@@ -43,7 +43,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ToastedDev/discordic/pull/5) in [ToastedDev/discordic](https://github.com/ToastedDev/discordic)
+1. ❌ Closed PR [#6](https://github.com/dreamcordjs/dreamcord/pull/6) in [dreamcordjs/dreamcord](https://github.com/dreamcordjs/dreamcord)
 <!--END_SECTION:activity-->
 </details>
 
