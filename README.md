@@ -9,9 +9,8 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 ### 💬 Socials
 [<img align="left" alt="YouTube" width="32px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][yt]
 [<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluency/48/null/twitter.png" />][tweet]
-[<img align="left" alt="Twitch" width="32px" src="https://img.icons8.com/color/48/null/twitch--v2.png" />][twitch]
 [<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/color/48/null/discord--v2.png" />][discord]
-[<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/fluency/48/null/secured-letter.png" />][mail]
+[<img align="left" alt="Email" width="32px" src="https://img.icons8.com/fluency/48/null/secured-letter.png" />][mail]
 
 <br />
 
@@ -62,11 +61,9 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 </details>
 
 <!-- Socials -->
-[website]: https://toastify.tk
-[yt]: https://youtube.com/@HeyyItsAmyy
-[tweet]: https://twitter.com/Hey_ItsAmyy
-[twitch]: https://twitch.tv/Heyy_ItsAmyy
-[discord]: https://toastify.tk/discord
+[yt]: https://youtube.com/@ToastedDev
+[tweet]: https://twitter.com/ToastedDev
+[discord]: https://discord.gg/YtrKGqdNyr
 [mail]: mailto:hey@toastify.tk
 
 <!-- Languages -->
@@ -76,7 +73,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
 
 <!-- Other Links -->
-[ytvids]: https://youtube.com/@HeyyItsAmyy/videos
+[ytvids]: https://youtube.com/@ToastedDev/videos
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
 [status]: https://discord.gg/wQwXgqCBHN
