@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#695](https://github.com/thedev-id/thedev.id/pull/695) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+1. 💪 Opened PR [#8641](https://github.com/is-a-dev/register/pull/8641) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
