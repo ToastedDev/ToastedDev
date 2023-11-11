@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#695](https://github.com/thedev-id/thedev.id/pull/695) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+1. ❌ Closed PR [#1516](https://github.com/Olivr/free-domain/pull/1516) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
 <!--END_SECTION:activity-->
 </details>
 
