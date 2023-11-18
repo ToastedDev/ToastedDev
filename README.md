@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1525](https://github.com/Olivr/free-domain/pull/1525) in [Olivr/free-domain](https://github.com/Olivr/free-domain)
+1. 🚀 Published release [v1.0.2](https://github.com/YABCounts/openapi/releases/tag/v1.0.2) in [YABCounts/openapi](https://github.com/YABCounts/openapi)
 <!--END_SECTION:activity-->
 </details>
 
