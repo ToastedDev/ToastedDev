@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/CosmoticLabs/csmos/issues/11) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
+1. 💪 Opened PR [#13](https://github.com/CosmoticLabs/csmos/pull/13) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
 <!--END_SECTION:activity-->
 </details>
 
