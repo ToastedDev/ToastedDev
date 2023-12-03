@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/vladfrangu/async_event_emitter/pull/3) in [vladfrangu/async_event_emitter](https://github.com/vladfrangu/async_event_emitter)
+1. 🎉 Merged PR [#15](https://github.com/CosmoticLabs/csmos/pull/15) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
 <!--END_SECTION:activity-->
 </details>
 
