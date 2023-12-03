@@ -42,7 +42,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#375](https://github.com/tarampampam/free-domains/pull/375) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)
+1. 💪 Opened PR [#3](https://github.com/vladfrangu/async_event_emitter/pull/3) in [vladfrangu/async_event_emitter](https://github.com/vladfrangu/async_event_emitter)
 <!--END_SECTION:activity-->
 </details>
 
