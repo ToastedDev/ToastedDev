@@ -29,11 +29,11 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HAPPY BIRTHDAY TO ME!!!](https://www.youtube.com/watch?v=rtEQixQ4z2s)
 - [Testing the YAB ?! Counts Estimations LIVE](https://www.youtube.com/watch?v=mDz9PdoDrx8)
 - [coding stream :O &lpar;making a multipurpose discord bot for fun&rpar;](https://www.youtube.com/watch?v=PDJ9JQ1PQCw)
 - [TERA TV Team Statistics TIMELAPSE](https://www.youtube.com/watch?v=iv1RH8j2SP4)
 - [Tracking @JipStats&#39; Latest Video](https://www.youtube.com/watch?v=5sCR9Z-hXjU)
-- [YAB ?! Counts Estimations TIMELAPSE 2](https://www.youtube.com/watch?v=ITg9yNvlYLU)
 <!-- YOUTUBE:END -->
 
 [➡️ more videos...][ytvids]
