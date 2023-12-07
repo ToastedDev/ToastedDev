@@ -1,6 +1,6 @@
 # hello! the name's toasted
 
-I'm a 13 year old Discord bot and frontend developer. I've been developing for almost 3 years, and have amassed great skill.
+I'm a 14 year old Discord bot and frontend developer. I've been developing for almost 3 years, and have amassed great skill.
 
 I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifystatistics), [Statistical Labs](https://github.com/StatisticslLabs), and autolution. I'm also the owner of [SCVisualized](https://youtube.com/@scvisualized), and a frontend developer at [YAB ?! Counts](https://yabcounts.com).
 
