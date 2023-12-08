@@ -13,7 +13,6 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 [<img align="left" alt="YouTube" width="32px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][yt]
 [<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluency/48/null/twitter.png" />][tweet]
 [<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/color/48/null/discord--v2.png" />][discord]
-[<img align="left" alt="Email" width="32px" src="https://img.icons8.com/fluency/48/null/secured-letter.png" />][mail]
 
 <br />
 
