@@ -1,4 +1,6 @@
-# hello! the name's toasted
+<img align="right" src="https://toasted.is-a.dev/logo.png" width="150">
+
+# hello! my name's toasted
 
 I'm a 14 year old Discord bot and frontend developer. I've been developing for almost 3 years, and have amassed great skill.
 
