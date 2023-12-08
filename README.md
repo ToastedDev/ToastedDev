@@ -24,14 +24,15 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 
 <br />
 
-<details>
-<summary>:zap: Recent Activity</summary>
+### ⚡ Recent Activity
+
+<!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-
 1. 🎉 Merged PR [#44](https://github.com/CosmoticLabs/csmos/pull/44) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
-   <!--END_SECTION:activity-->
-   </details>
+<!--END_SECTION:activity-->
+
+<!-- prettier-ignore-end -->
 
 <details>
 <summary>📊 Stats</summary>
