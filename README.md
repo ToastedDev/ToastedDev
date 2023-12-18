@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/CosmoticLabs/csmos/pull/99) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
+1. 🗣 Commented on [#102](https://github.com/CosmoticLabs/csmos/pull/102#issuecomment-1859708934) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
