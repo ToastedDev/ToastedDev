@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/dreamcordjs/dreamcord/pull/7) in [dreamcordjs/dreamcord](https://github.com/dreamcordjs/dreamcord)
+1. 🎉 Merged PR [#139](https://github.com/CosmoticLabs/csmos/pull/139) in [CosmoticLabs/csmos](https://github.com/CosmoticLabs/csmos)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
