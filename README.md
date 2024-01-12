@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/ToastedDev/gitrover/issues/5) in [ToastedDev/gitrover](https://github.com/ToastedDev/gitrover)
+1. 🗣 Commented on [#7](https://github.com/ToastedDev/gitrover/pull/7#issuecomment-1889472189) in [ToastedDev/gitrover](https://github.com/ToastedDev/gitrover)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
