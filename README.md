@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ToastedDev/gitrover/pull/7) in [ToastedDev/gitrover](https://github.com/ToastedDev/gitrover)
+1. 💪 Opened PR [#8769](https://github.com/js-org/js.org/pull/8769) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
