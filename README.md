@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/countifyfun/docs/pull/1#issuecomment-1936906278) in [countifyfun/docs](https://github.com/countifyfun/docs)
+1. ❌ Closed PR [#1](https://github.com/countifyfun/docs/pull/1) in [countifyfun/docs](https://github.com/countifyfun/docs)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
