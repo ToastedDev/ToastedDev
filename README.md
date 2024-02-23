@@ -40,11 +40,11 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 
 <br />
 
-[<img src="https://github-readme-stats.vercel.app/api?username=ToastedDev&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
+[<img src="https://github-readme-stats-ashy-sigma-61.vercel.app/api?username=ToastedDev&count_private=true&show_icons=true&theme=highcontrast&hide_border=true" alt="TCA's github stats" width="550px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToastedDev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
+[<img src="https://github-readme-stats-ashy-sigma-61.vercel.app/api/top-langs/?username=ToastedDev&layout=compact&theme=highcontrast&hide_border=true" alt="Top Langs" width="350px" />][stats]
 
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ToastedDev&theme=highcontrast&hide_border=true&range=last_7_days" alt="WakaTime Stats" width="550px" />][stats]
+[<img src="https://github-readme-stats-ashy-sigma-61.vercel.app/api/wakatime?username=ToastedDev&theme=highcontrast&hide_border=true&range=last_7_days" alt="WakaTime Stats" width="550px" />][stats]
 
 [<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToastedDev&bg_color=000000&color=C1CB12&line=C1CB12&point=FFFB00&area=true&hide_border=true" alt="Activity Graph" width="830px" />][graph]
 
