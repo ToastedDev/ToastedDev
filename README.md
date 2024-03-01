@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/authenable/authenable/pull/1#issuecomment-1973305461) in [authenable/authenable](https://github.com/authenable/authenable)
+1. 🎉 Merged PR [#1](https://github.com/authenable/authenable/pull/1) in [authenable/authenable](https://github.com/authenable/authenable)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
