@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/ToastedDev/toasted.dev/pull/33) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
+1. 💪 Opened PR [#3](https://github.com/NiaAxern/discord-youtube-subscriber-count/pull/3) in [NiaAxern/discord-youtube-subscriber-count](https://github.com/NiaAxern/discord-youtube-subscriber-count)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
