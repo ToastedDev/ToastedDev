@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/ToastedDev/toasted.dev/pull/42) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
+1. 🗣 Commented on [#248](https://github.com/csmosbot/csmos/issues/248#issuecomment-2016682887) in [csmosbot/csmos](https://github.com/csmosbot/csmos)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
