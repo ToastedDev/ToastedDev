@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#733](https://github.com/pingdotgg/uploadthing/pull/733) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
+1. 🗣 Commented on [#25](https://github.com/csmosbot/csmos/issues/25#issuecomment-2019265876) in [csmosbot/csmos](https://github.com/csmosbot/csmos)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
