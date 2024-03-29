@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#269](https://github.com/csmosbot/csmos/issues/269) in [csmosbot/csmos](https://github.com/csmosbot/csmos)
+1. 🔒 Closed issue [#270](https://github.com/csmosbot/csmos/issues/270) in [csmosbot/csmos](https://github.com/csmosbot/csmos)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
