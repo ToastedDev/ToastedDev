@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#268](https://github.com/csmosbot/csmos/issues/268) in [csmosbot/csmos](https://github.com/csmosbot/csmos)
+1. ❌ Closed PR [#16](https://github.com/PyroCalzone/MechVibesPlusPlus/pull/16) in [PyroCalzone/MechVibesPlusPlus](https://github.com/PyroCalzone/MechVibesPlusPlus)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
