@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/PyroCalzone/MechVibesPlusPlus/pull/16) in [PyroCalzone/MechVibesPlusPlus](https://github.com/PyroCalzone/MechVibesPlusPlus)
+1. 💪 Opened PR [#30](https://github.com/lucia-auth/examples/pull/30) in [lucia-auth/examples](https://github.com/lucia-auth/examples)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
