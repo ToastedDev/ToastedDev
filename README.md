@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/lucia-auth/examples/pull/30) in [lucia-auth/examples](https://github.com/lucia-auth/examples)
+1. 🎉 Merged PR [#47](https://github.com/ToastedDev/toasted.dev/pull/47) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
