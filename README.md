@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/StatisticalLabs/statistical/issues/2) in [StatisticalLabs/statistical](https://github.com/StatisticalLabs/statistical)
+1. 💪 Opened PR [#4](https://github.com/StatisticalLabs/statistical/pull/4) in [StatisticalLabs/statistical](https://github.com/StatisticalLabs/statistical)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
