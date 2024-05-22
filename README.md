@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ToastedDev/clicker/issues/1) in [ToastedDev/clicker](https://github.com/ToastedDev/clicker)
+1. 💪 Opened PR [#3](https://github.com/charlie-ashford/mrbeastGraph/pull/3) in [charlie-ashford/mrbeastGraph](https://github.com/charlie-ashford/mrbeastGraph)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
