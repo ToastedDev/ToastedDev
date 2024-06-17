@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GraphifyStudios/song-request-system/pull/1) in [GraphifyStudios/song-request-system](https://github.com/GraphifyStudios/song-request-system)
+1. 🗣 Commented on [#2](https://github.com/GraphifyStudios/song-request-system/pull/2#issuecomment-2173370707) in [GraphifyStudios/song-request-system](https://github.com/GraphifyStudios/song-request-system)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
