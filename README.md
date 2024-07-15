@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Matheusify/ifybot/pull/2) in [Matheusify/ifybot](https://github.com/Matheusify/ifybot)
+1. 💪 Opened PR [#19](https://github.com/GalvinPython/chatr/pull/19) in [GalvinPython/chatr](https://github.com/GalvinPython/chatr)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
