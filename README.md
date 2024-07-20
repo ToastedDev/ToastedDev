@@ -30,7 +30,7 @@ I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifysta
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/GalvinPython/chatr/pull/24#issuecomment-2238968269) in [GalvinPython/chatr](https://github.com/GalvinPython/chatr)
+1. 💪 Opened PR [#26](https://github.com/GalvinPython/chatr/pull/26) in [GalvinPython/chatr](https://github.com/GalvinPython/chatr)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
