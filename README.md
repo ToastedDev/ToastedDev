@@ -4,7 +4,7 @@
 
 I'm a 14 year old Discord bot and frontend developer. I've been developing for almost 4 years. over those 4 years, I've amassed great skill and made hundreds of projects that have changed people's everyday lives.
 
-I'm currently the founder of [Graphify Studios](https://youtube.com/@graphifystatistics), [Cosmotic Labs](https://github.com/CosmoticLabs), and autolution. I'm also the owner of [SCVisualized](https://youtube.com/@scvisualized), and a frontend developer at [YAB ?! Counts](https://yabcounts.com).
+I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats), autolution, and a co-founder of [Statistics Assembly](https://dsc.gg/SAsc). I'm also the current owner of [SCVisualized](https://youtube.com/@scvisualized).
 
 ---
 
