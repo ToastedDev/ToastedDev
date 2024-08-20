@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/ToastedDev/gitrover/pull/13) in [ToastedDev/gitrover](https://github.com/ToastedDev/gitrover)
+1. 🎉 Merged PR [#117](https://github.com/ToastedDev/toasted.dev/pull/117) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
