@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/charlie-ashford/videoStats/pull/2) in [charlie-ashford/videoStats](https://github.com/charlie-ashford/videoStats)
+1. 🎉 Merged PR [#122](https://github.com/ToastedDev/toasted.dev/pull/122) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
