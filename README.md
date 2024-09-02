@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/countifyfun/countify/pull/3) in [countifyfun/countify](https://github.com/countifyfun/countify)
+1. 🎉 Merged PR [#124](https://github.com/ToastedDev/toasted.dev/pull/124) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
