@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Matheusify/ytrealtimewithniastreamests/pull/2) in [Matheusify/ytrealtimewithniastreamests](https://github.com/Matheusify/ytrealtimewithniastreamests)
+1. 💪 Opened PR [#3](https://github.com/Matheusify/ytrealtimewithniastreamests/pull/3) in [Matheusify/ytrealtimewithniastreamests](https://github.com/Matheusify/ytrealtimewithniastreamests)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
