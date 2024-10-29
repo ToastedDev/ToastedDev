@@ -1,4 +1,4 @@
-<img align="right" src="https://toasted.is-a.dev/logo.png" width="150">
+<img align="right" src="https://toasted.dev/logo.png" width="150">
 
 # hello! my name's toasted
 
