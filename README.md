@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Discordo 0.2.2](https://github.com/ToastedDev/discordo/releases/tag/0.2.2) in [ToastedDev/discordo](https://github.com/ToastedDev/discordo)
+1. 💪 Opened PR [#1](https://github.com/ToastedDev/reactify/pull/1) in [ToastedDev/reactify](https://github.com/ToastedDev/reactify)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
