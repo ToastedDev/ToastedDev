@@ -30,7 +30,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ToastedDev/reactify/pull/1) in [ToastedDev/reactify](https://github.com/ToastedDev/reactify)
+1. 🚀 Published release [Statical v0.0.1](https://github.com/SCToolsOrg/statical/releases/tag/0.0.1) in [SCToolsOrg/statical](https://github.com/SCToolsOrg/statical)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
