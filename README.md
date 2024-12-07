@@ -12,6 +12,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 
 [<img align="left" alt="YouTube" width="32px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][yt]
 [<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/fluency/48/null/twitter.png" />][tweet]
+[<img align="left" alt="Bluesky" width="32px" src="https://img.icons8.com/fluency/48/null/bluesky.png" />][bluesky]
 [<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/color/48/null/discord--v2.png" />][discord]
 
 <br />
@@ -54,8 +55,8 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 
 [yt]: https://youtube.com/@ToastedDev
 [tweet]: https://twitter.com/ToastedDev
-[discord]: https://discord.gg/YtrKGqdNyr
-[mail]: mailto:hey@toastify.tk
+[bluesky]: https://bsky.app/profile/toasted.dev
+[discord]: https://discord.com/users/955408387905048637
 
 <!-- Languages -->
 
