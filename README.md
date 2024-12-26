@@ -31,7 +31,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/GalvinPython/chatr/pull/94) in [GalvinPython/chatr](https://github.com/GalvinPython/chatr)
+1. 🚀 Published release [v0.1.0](https://github.com/SCToolsOrg/statical/releases/tag/0.1.0) in [SCToolsOrg/statical](https://github.com/SCToolsOrg/statical)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
