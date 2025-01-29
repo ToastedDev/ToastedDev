@@ -31,7 +31,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/SCToolsOrg/statical/releases/tag/0.1.1) in [SCToolsOrg/statical](https://github.com/SCToolsOrg/statical)
+1. ❌ Closed PR [#128](https://github.com/ToastedDev/toasted.dev/pull/128) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
