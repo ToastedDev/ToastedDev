@@ -31,7 +31,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#128](https://github.com/ToastedDev/toasted.dev/pull/128) in [ToastedDev/toasted.dev](https://github.com/ToastedDev/toasted.dev)
+1. 💪 Opened PR [#2](https://github.com/charlie-ashford/top-channels/pull/2) in [charlie-ashford/top-channels](https://github.com/charlie-ashford/top-channels)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
