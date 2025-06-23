@@ -31,7 +31,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SCToolsOrg/countstream/pull/1) in [SCToolsOrg/countstream](https://github.com/SCToolsOrg/countstream)
+1. 💪 Opened PR [#134](https://github.com/GalvinPython/feedr/pull/134) in [GalvinPython/feedr](https://github.com/GalvinPython/feedr)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
