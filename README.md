@@ -31,7 +31,7 @@ I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats),
 <!-- prettier-ignore-start -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#135](https://github.com/GalvinPython/feedr/pull/135) in [GalvinPython/feedr](https://github.com/GalvinPython/feedr)
+1. 🗣 Commented on [#2](https://github.com/ToastedDev/countstream/issues/2#issuecomment-3232927859) in [ToastedDev/countstream](https://github.com/ToastedDev/countstream)
 <!--END_SECTION:activity-->
 
 <!-- prettier-ignore-end -->
