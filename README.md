@@ -2,7 +2,7 @@
 
 # hello! my name's toasted
 
-I'm a 15 year old Discord bot and frontend developer. I've been developing for almost 4 years. since then, I've amassed great skill and made hundreds of projects that have changed people's everyday lives.
+I'm a 16 year old Discord bot and frontend developer. I've been developing for almost 4 years. since then, I've amassed great skill and made hundreds of projects that have changed people's everyday lives.
 
 I'm currently the founder of [MinMax Studios](https://youtube.com/@minmaxstats), and a co-founder of [Statistics Assembly](https://dsc.gg/STAsc). I'm also the current owner of [SCVisualized](https://youtube.com/@scvisualized).
 
