@@ -1,4 +1,4 @@
-16-year old software developer and content creator from the Philippines. Co-founder of [MinMax Studios](https://youtube.com/@MinMaxStudios) and [SCTools](https://sctools.org).
+16-year old software developer and content creator from the Philippines. Founder of [MinMax Studios](https://youtube.com/@MinMaxStudios) and co-founder of [SCTools](https://sctools.org).
 
 ## Current projects
 
