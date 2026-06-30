@@ -6,5 +6,3 @@
 - [**Tracky**](https://tracky.sctools.org) - The ultimate YouTube statistics bot
 - [**SCTools Estimations**](https://ests.sctools.org) - The best YouTube subscriber count estimations
 - [**countstream**](https://github.com/SCToolsOrg/countstream) - The live count website made by streamers for streamers
-- [**RealtimeSubCount**](https://realtimesubcount.com) - Real-time live subscriber counter for any YouTube creator
-- [**Instastatistics**](https://instastatistics.com) - Real-time live follower counter for any Instagram creator
